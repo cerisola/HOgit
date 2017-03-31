@@ -87,7 +87,7 @@ git merge --no-ff ejercicios
 git merge --no-ff charlas
 ```
 
-la opción --no-ff sirve para que no "mezcle" las dos branches, y queda más prolijo el network. recomienod que la usen siempre, pero no es fundamental.
+la opción --no-ff sirve para que no "mezcle" las dos branches, y queda más prolijo el network. recomiendo que la usen siempre, pero no es fundamental.
 
 si quieren ver cómo quedó la historia del repo:
 
