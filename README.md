@@ -47,7 +47,7 @@ y nos movemos a ella
 git checkout charlas
 ```
 
-en esta branch, editamos README.md de nuevp
+en esta branch, editamos README.md de nuevo
 
 ```
 vi README.md
