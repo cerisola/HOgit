@@ -29,7 +29,7 @@ cd HOgit
 Editamos el archivo de README y hacemos un nuevo commit
 
 ```
-vi README.md
+vim README.md
 .........
 git add README.md
 git commit
@@ -50,7 +50,7 @@ git checkout charlas
 en esta branch, editamos README.md de nuevo
 
 ```
-vi README.md
+vim README.md
 ...
 git add README.md
 git commit
@@ -72,7 +72,7 @@ git checkout ejercicios
 editamos un archivo nuevo, ejercicios.md
 
 ```
-vi ejercicios.md
+vim ejercicios.md
 ...
 git add ejercicios.md
 git commit
@@ -109,7 +109,7 @@ Luego también editamos este readme para agregar los comandos con los que hicimo
 
 
 ```
-vi README.md
+vim README.md
 ...
 git add README.md
 git commit
